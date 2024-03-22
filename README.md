@@ -2,14 +2,18 @@
 Here i have done a project on Exploratory Data Analysis to analyze,to visualize and to summarize all about a dataset of employees working in ABC company.Steps to perform this project are as the following:
 
 ## step1:imported the required modules numpy,pandas,seaborn,matplotlib
+
 ## Step2: 
 
 Data preprocessing:
 
 *it is the concept of changing the raw data into a clean data set.
+
 *Corrected the values of column 'Height' by replacing random values.
                    
-## Step3:*Analyzing the number of percentage splitting w.r.t total employees in each team:
+## Step3:
+
+   *Analyzing the number of percentage splitting w.r.t total employees in each team:
 
    *calculated the employee count and percentage distribution
       
@@ -26,11 +30,13 @@ Data preprocessing:
 ## step6:salary analysis:
 
       *Determined the team and position with the highest salary spending.
+      
       *plotted the above data using boxplot which illustrates the relationship between team,position and salary.
       
 ## step7:Correlation between Age and salary:
 
       *correlated the relationship between the age and salary of the employees.
+      
       *plotted it using heatmap which is a two dimensional representation of data.
       
 ## conclusion:
