@@ -19,11 +19,13 @@ Data preprocessing:
       
    *visualized the data using barplot
    
-## step4:*seggregated the employees w.r.t different position
+## step4:
+      *seggregated the employees w.r.t different position
 
       *illustrated the same using countplot
       
-## step5:*found out the age group most of the employees belong to:
+## step5:
+      *found out the age group most of the employees belong to:
 
       *visualized the age distribution using countplot for the clear insight.
       
