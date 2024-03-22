@@ -30,13 +30,11 @@ Data preprocessing:
       *visualized the age distribution using countplot for the clear insight.
       
 ## step6:salary analysis:
-
       *Determined the team and position with the highest salary spending.
       
       *plotted the above data using boxplot which illustrates the relationship between team,position and salary.
       
 ## step7:Correlation between Age and salary:
-
       *correlated the relationship between the age and salary of the employees.
       
       *plotted it using heatmap which is a two dimensional representation of data.
